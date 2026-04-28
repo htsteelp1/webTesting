@@ -1,3 +1,8 @@
-h1 {
+#mainH {
     color: blue;
+    font-family: Arial, sans-serif;
+}
+#content {
+    display: flex;
+    justify-content: center;
 }
