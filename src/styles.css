@@ -1,13 +1,17 @@
 #mainH {
     color: blue;
-    font-family: Arial, sans-serif;
 }
 #content {
     display: flex;
     justify-content: center;
 }
+#selfie {
+    height: 100%;
+    width: 33vw;
+}
 body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    font-family: Arial, sans-serif;
 }
